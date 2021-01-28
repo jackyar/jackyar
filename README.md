@@ -1,7 +1,7 @@
 ### Hello Github 👋
   - 大家好，这是我的github仓库，很高兴在这里相遇
   - 我叫鄢宇航，就读福州大学至诚学院。 爱好是...
-  - “不知则学，不懂则问” 是我的座右铭
+  - “不知则问，不能则学” 是我的座右铭
 
 <!--
 **jackyar/jackyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
